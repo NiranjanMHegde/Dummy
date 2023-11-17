@@ -74,3 +74,5 @@ a=Rectangle(8,4)
 b=Triangle(6,9)
 print(a.area())
 print(b.area(7))
+
+#newline
